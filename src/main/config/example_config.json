@@ -1,0 +1,6 @@
+{
+	"token":"TOKEN",
+	"ip":"SERVER_IP",
+	"port":"25565",
+	"plugin_enabled": false
+}
